@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/james-clarusway/devops-project-microservices-ci-cd-pipeline-with-petclinic-app.git
